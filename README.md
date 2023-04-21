@@ -12,12 +12,13 @@
 
 - 🔭 I’m currently working on [Bot de trading de cryptomonnaies](https://github.com/Vincent-Bulut/CryptoBot)
 
-- 💬 Ask me about **Programmation,Data Visualisation ,Machine Learning , Big Data ,Automatisation et Déploiement**
+- 💬 Ask me about **Programming, Data Visualization, Machine Learning, Big Data, Automation, and Deployment**
 
 - 📫 How to reach me **jouahibou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **www.linkedin.com/in/jouahibou-diamé**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
